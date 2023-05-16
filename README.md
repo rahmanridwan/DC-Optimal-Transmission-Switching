@@ -32,6 +32,3 @@ Bc1 – Bc186: Branch capacity. This is simply the maximum flow for a branch min
 Z1 – z186: the switch status of each line for a given scenario & switchnum. Note that this is coded slightly differently than our other data. Here we only mark the precise switch we are interested in, rather than all open switches.
 Cost & switchId: exactly the same as other data.
 
-Navigation:
-The project has datasets and files provided along with their respective code. The data, file, and code are referenced with each other with a unique number within brackets. 
-The project also includes recommended readings and research papers that were used to conduct the following project.
