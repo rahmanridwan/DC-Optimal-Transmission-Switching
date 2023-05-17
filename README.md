@@ -32,3 +32,5 @@ Bc1 – Bc186: Branch capacity. This is simply the maximum flow for a branch min
 Z1 – z186: the switch status of each line for a given scenario & switchnum. Note that this is coded slightly differently than our other data. Here we only mark the precise switch we are interested in, rather than all open switches.
 Cost & switchId: exactly the same as other data.
 
+Due to the large size of the datasets, they could not be uploaded on the github repository. However, the link to the shared onedrive is provided for access to the datasets. 
+https://texastechuniversity-my.sharepoint.com/personal/eric_brown_ttu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Feric%5Fbrown%5Fttu%5Fedu%2FDocuments%2FResearch%2FProjects%2FTransmissionSwitching%2FRidwan%2Fshared%20folder&FolderCTID=0x0120004C9CC705AC35334897493FBA3C62C0DF&view=0
